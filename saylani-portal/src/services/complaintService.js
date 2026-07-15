@@ -46,4 +46,5 @@ export const assignTechnician = async (id, technician) => {
     technician,
     status: "Assigned",
   });
-};vi
+  };
+  
